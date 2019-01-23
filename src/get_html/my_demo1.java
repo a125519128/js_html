@@ -7,7 +7,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
+/**
+ * qweqwe
+ * @author Administrator
+ *
+ */
 @WebServlet("/my_demo1")
 public class my_demo1 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
